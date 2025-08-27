@@ -54,9 +54,9 @@ Want to list your software that you've made? It's as easy as forking this reposi
 
 ### Docker Containers:
 
-|Docker|Description|
-|:----:|:---------:|
-|None| |
+|Docker |Description |
+|:-----:|:----------:|
+|[hack-chat-docker](https://github.com/mikeevmm/hack-chat-docker) | Docker compose files to self-host hack.chat. |
 
 
 ### Libraries:
