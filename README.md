@@ -25,6 +25,9 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[DLBot_NextGen](https://github.com/light689/DLBot_ng)|A highly customizable lightweight bot that allows the WebUI to view logs/send messages/receive message commands|
 |[usv3](https://github.com/AnnikaV9/usv3-framework)|An extensible bot framework for hack.chat|
 |[whoami](https://github.com/cmd1152/whoami)|A Chinese-language robot running on the ?lounge platform|
+|[AmaOka](https://github.com/sun-ldigv3/AmaOka)|A hack.chat bot|
+|[awaya](https://github.com/Kroos372/awaya)|A Chinese bot for hack.chat|
+|[BoBot](https://github.com/alltobebetter/BoBot)|A Chinese-language entertainment robot|
 
 ### Bouncers:
 
